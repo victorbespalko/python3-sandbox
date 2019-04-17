@@ -1,5 +1,5 @@
 
-#Column we want to wrap by Prefix and Postfix
+# Column we want to wrap by Prefix and Postfix
 text = '''
 asas
 aqwqe
@@ -15,4 +15,4 @@ postfix = 'ama da postfix11!'
 
 # Print nice processed column
 for str in strings_one_by_one:
-    print(prefix,str,postfix)
+    print(prefix, str, postfix)
